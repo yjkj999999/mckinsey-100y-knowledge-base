@@ -3,7 +3,8 @@ name: mckinsey-100y-knowledge-base
 description: 麦肯锡100年知识库 - 涵盖191篇精选内容，融合金字塔原理、结构化战略思维、麦肯锡工作法、写作与阅读方法论，以及麦肯锡全球行业洞察报告（金融、AI、消费、能源、汽车等）。支持知识检索、方法论指导、问题解决框架和行业趋势分析。
 license: MIT
 metadata:
-  author: Jack Wang (wdj)
+  author: "Jack Wang (wdj) / 王东杰"
+  github: "yjkj999999"
   version: "1.0"
   last_updated: "2026-06-09"
   architecture: "Progressive Disclosure + Knowledge Catalog"
@@ -14,6 +15,8 @@ metadata:
 ---
 
 # 麦肯锡100年知识库
+
+> **Curated & Published by [Jack Wang (wdj) / 王东杰](https://github.com/yjkj999999)**
 
 **架构**: Progressive Disclosure (渐进式披露) + Knowledge Catalog (知识目录)
 **来源**: IMA知识库 — 麦肯锡100年知识库(183篇) + 麦肯锡思维模型(123篇)，去重后191篇文本内容
@@ -234,3 +237,14 @@ node /Users/wdj/.workbuddy/skills/skill_2053082144792322048/ima_api.cjs \
 **知识库ID**:
 - 麦肯锡100年知识库: `lEanMn3jC4JjNrNulwh5-uoANKemo_efKzqpqdZzG7k=`
 - 麦肯锡思维模型: `mbCVxK5Ig7E2CGRPdoDtJqnEYfYjIXJCQgtuPw1N0GQ=`
+
+---
+
+## 署名 / Attribution
+
+**作者**: Jack Wang (wdj) / 王东杰
+**GitHub**: [yjkj999999](https://github.com/yjkj999999)
+**知识库**: IMA — 麦肯锡100年知识库 + 麦肯锡思维模型
+**许可**: MIT License
+
+> 本Skill由 Jack Wang (wdj) 基于IMA知识库原始内容策展、结构化整理并发布。内容版权归麦肯锡公司及原始作者所有，仅供学习与研究使用。
