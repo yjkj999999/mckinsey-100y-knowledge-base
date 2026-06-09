@@ -1,0 +1,947 @@
+{
+  "kb_id": "mbCVxK5Ig7E2CGRPdoDtJqnEYfYjIXJCQgtuPw1N0GQ=",
+  "kb_name": "麦肯锡思维模型",
+  "browse_items": [
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_c62240e1898e45c7e66651e07b4c38557316519469979935",
+      "title": "7-100_250413012205.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_abafb4c2d2029c161acdc3859524148d7316519469979935",
+      "title": "5-100_250413012205.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_ec8c8bada468eabdd4a5f1e6d64d0cb37316519469979935",
+      "title": "6-100_250413012205.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_8ef88013d0f068a4b6a321be1edef6c47316519469979935",
+      "title": "4-100_250413012205.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_d68a00b40ae5e82b16d7c8b6ad21f94d7316519469979935",
+      "title": "11-100_250413012205.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_1dc52c5ae61c4cd6d9c5f9d49bd776507316519469979935",
+      "title": "3-100_250413012205.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_c346d8fcb76c3d324712d5923c9e600b7316519469979935",
+      "title": "12-100_250413012205.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_4b0b7077a6315cd89bb5f4665347e4ed7316519469979935",
+      "title": "10-100_250413012205.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_79236020c157f188c9bfd6671f0652e27316519469979935",
+      "title": "2.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_ac0bd53443e36d9c967659b8a0e7ba507316519469979935",
+      "title": "9-100_250413012205.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_1ab324e8e84b27c308bcbd72dfa2d06d7316519469979935",
+      "title": "8-100_250413012205.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_76f6738d533f288fc418b8487b530ecf7316519469979935",
+      "title": "10_250413012158.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_076123053535f3dc23515cfa15c98f817316519469979935",
+      "title": "4.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_d7464172843fe97782c48292bc03ba027316519469979935",
+      "title": "3.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_e5d93bdd2d1cda148d9eee0f47cf33887316519469979935",
+      "title": "1.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_b47e63b7c498dbb6c1937358563de8dc7316519469979935",
+      "title": "10-100_250413012149.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_80d2b4760c4ff66f92451ed0ab5371797316519469979935",
+      "title": "9.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_f7d6185724fd8b6ea6850992c8c199b17316519469979935",
+      "title": "8.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_3e50f5ee3c196ef957ffdb01fa17c2cb7316519469979935",
+      "title": "7.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_493a1252c1b9d8499edd2db8c7a33e5f7316519469979935",
+      "title": "6.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_1170bcdd323186210b361998101a2d6e7316519469979935",
+      "title": "5.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_bd153ff59c16d37703e55faa89ff2c997316519469979935",
+      "title": "5-100_250413012149.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_0b7c70caf8ad921b83a871d5776886807316519469979935",
+      "title": "西蒙学习法.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_3ff7bbd95856ec2d0669e73f802f5a3a7316519469979935",
+      "title": "6-100_250413012149.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_32ecb2584141cd5cdc7fa2a03b1a21087316519469979935",
+      "title": "4-100_250413012149.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_18226e7b3cb34d9eb4264008e6cdeb667316519469979935",
+      "title": "3-100_250413012149.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_48e26d43ed1b83e3b936389f77d336da7316519469979935",
+      "title": "12-100_250413012149.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_6a24e0dd7392380362271212fb9e80217316519469979935",
+      "title": "11-100_250413012149.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_f95d6acded0142174752ce8c90a647da7316519469979935",
+      "title": "9-100_250413012149.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_d9ebd3c4794669a2b6a7abfafa58dd1e7316519469979935",
+      "title": "8-100_250413012149.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_c03125f2f684b1fa41ef7bfb1a2b9cad7316519469979935",
+      "title": "7-100_250413012149.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_4615df61902e14fbfa1a553f779d82787316519469979935",
+      "title": "刻意练习学习法.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_7a57e1d66e23cdb365885344a56398fe7316519469979935",
+      "title": "斯科特杨学习法.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_4f805c2e3698bbb58d4bb7433c187c2c7316519469979935",
+      "title": "巨人学习法.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_c2bcaca8aeed6440be21d6727dfe7c5d7316519469979935",
+      "title": "费曼学习法.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_842e881b371317246e33549bf4ce0c967316519469979935",
+      "title": "布鲁姆深度学习.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_7190ef0f774d9fb2ef0e8fc0cce854ef7316519469979935",
+      "title": "SQ3R阅读法.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_278a386e9ffedf96abb8b13f81807e137316519469979935",
+      "title": "学习区理论.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_7ebf9bb076344122b15cfb888ed97dcf7316519469979935",
+      "title": "心流模式.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_86cafc0f4ea06f1e6718b904e94ae91f7316519469979935",
+      "title": "学习金字塔.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_7ff72768d9f264fcb9f221e17badf80b7316519469979935",
+      "title": "03.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_2fc0f49c3f960f0a6a81491d7e7fe1cd7316519469979935",
+      "title": "04.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_e178b0dc223985beaafe2c064f9e3f797316519469979935",
+      "title": "02.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_59e323e821ac380b302db2f8f7c468e77316519469979935",
+      "title": "01.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_aca64df3774c8ee68473917aa9a3801e7316519469979935",
+      "title": "10.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_be63972c9b732dd941a049cc33a386707316519469979935",
+      "title": "09.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_e2ef111f2db262206e9b3e94068cd8397316519469979935",
+      "title": "06.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_9984ce014dc1c6b059898de7ff7ce57e7316519469979935",
+      "title": "08.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_5f658d62661bd5e707c6591ddb345a4e7316519469979935",
+      "title": "05.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_2c234417202aab1743f33fbeb5f0a31a7316519469979935",
+      "title": "07.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_2318d06ba54dad41bf9943cd86c6a7f47316519469979935",
+      "title": "5-100_250413012127.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_6930c95f9f91c99f13105a33fdd03e927316519469979935",
+      "title": "3-100_250413012127.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_06c15772e3926f56f8644ed98eb312697316519469979935",
+      "title": "6-100_250413012127.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_ed6bbec41e5cd0e2bbfa723b09fa00397316519469979935",
+      "title": "4-100_250413012127.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_756db31fb3b3a942ee422b7939584d167316519469979935",
+      "title": "12-100_250413012127.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_7dd29bb12fd431e90ab978ca7f305b557316519469979935",
+      "title": "9-100_250413012127.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_285b5a458c1e5403921da041a772cf937316519469979935",
+      "title": "11-100_250413012127.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_dd2dd5e0a1c89520b628ea8eb63cd4a97316519469979935",
+      "title": "10-100_250413012127.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_871918c37fe5022063a739cad7c2efa37316519469979935",
+      "title": "8-100_250413012127.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_7d52ba039f1b9f5a0d6ecf69b54d9d137316519469979935",
+      "title": "7-100_250413012127.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_41d54197d5e2ecd28e025674f1c8ee087316519469979935",
+      "title": "12-100_250413012113.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_2fbb1139b98ebecffbf956cf01c65be07316519469979935",
+      "title": "11-100_250413012113.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_30dc288537d9d4b073e399d7007f388f7316519469979935",
+      "title": "10-100_250413012113.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_f4c5377358b121a2ee618633a92139c17316519469979935",
+      "title": "9-100_250413012113.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_8c478bb3836e91cdcb80c7fb856bd17b7316519469979935",
+      "title": "8-100_250413012113.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_ccd6cf98425ccad786011b8718c895bf7316519469979935",
+      "title": "4-100_250413012113.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_2f9aef89a517419e362fe0754647a1c67316519469979935",
+      "title": "6-100_250413012113.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_aa73258ba35479d6f6d87e5f17aaf1ad7316519469979935",
+      "title": "7-100_250413012113.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_028be53604c4e1a38e0ece94949267d97316519469979935",
+      "title": "5-100_250413012113.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_a5b74104789050189aaacf4c8bf60c497316519469979935",
+      "title": "3-100_250413012113.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_4aee3fa8c0c7066e108cce184c0120d17316519469979935",
+      "title": "9-100.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_03595f0cf0a622550f48cd88c98474df7316519469979935",
+      "title": "12-100.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_304cb5d375c4ff10b80e958ed517dad87316519469979935",
+      "title": "11-100.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_3ee239edbfe1d76070cff4f6cf3350007316519469979935",
+      "title": "10-100.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_67f7211720e735b69dd7df8bbed0b9187316519469979935",
+      "title": "领导力3.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_712f1a8cfd8b5580fe2e9f73c91fc7cf7316519469979935",
+      "title": "7-100.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_aff5254db00d005baa6220795ec69c4e7316519469979935",
+      "title": "8-100.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_e8f9c9f74f378cee644c2a009cdb3fb77316519469979935",
+      "title": "领导力2.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_57d64ae8248c4f252e16505f74d822d57316519469979935",
+      "title": "领导力4.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_5f8372b623ba3e7ded90db7fdabf6f987316519469979935",
+      "title": "领导力1.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_f600343a9a7c7290953ccb6a27d44bf57316519469979935",
+      "title": "领导力10.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_d824919fa3364f771f1158cc9b9535b17316519469979935",
+      "title": "领导力8.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_7773707835f61f39678e7d2620efa5987316519469979935",
+      "title": "领导力9.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_b720ab009e92944a48727ffac91952137316519469979935",
+      "title": "领导力6.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_f55e95f8682bdf4fc5970e8a7084061a7316519469979935",
+      "title": "领导力7.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_b076ec0736eaf0c5c099f15648254f397316519469979935",
+      "title": "领导力5.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_80e187e86f5f3525047d20f5d9282d907316519469979935",
+      "title": "4-100.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_fcff116e46b76850aa42f28f08c107f87316519469979935",
+      "title": "6-100.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_234b5795e2b1020faff5ec9f5a68b3277316519469979935",
+      "title": "5-100.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_15af893297a43bdb8e666e646e9a4b6b7316519469979935",
+      "title": "3-100.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "pdf_f6fa6e040898ed71cbb1dcccc591df63_c042c8afdf772397881e96464d92d0f47316519469979935",
+      "title": "150个思维模型&麦肯锡战略思维分析工具.pdf",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 1
+    },
+    {
+      "media_id": "pdf_f6fa6e040898ed71cbb1dcccc591df63_f244c80f436ee6880ec19e12a9eb2db07316519469979935",
+      "title": "万物皆模型-100个思维模型解密版.pdf",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 1
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_f3d143fe0c7c599a474e5e480295dd587316519469979935",
+      "title": "GROW教练模型-4.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_0ed61bda32aedace42d9f75608f07c887316519469979935",
+      "title": "ORID焦点讨论法-7.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "pdf_f6fa6e040898ed71cbb1dcccc591df63_e00a425dcb1e8b5b2b98036dfb2833f27316519469979935",
+      "title": "成长方法论-100个思维模型.pdf",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 1
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_864f35e63b568be3afd067f5f91b1b997316519469979935",
+      "title": "30秒电梯法则-5.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_d0fc1e4364e6228d32dcfb9df7351e5c7316519469979935",
+      "title": "FFC赞美法则-10.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_c903ea0e4afc9a8d0d12afae4e5b4ebe7316519469979935",
+      "title": "乔哈里视窗-3.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_230310460fcc2721755c24dd130580087316519469979935",
+      "title": "沟通漏斗效应-2.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_1fb682f3918215e7e23eb9371850263f7316519469979935",
+      "title": "非暴力沟通-1.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_00f514b352a2c2e461680bc07135b9037316519469979935",
+      "title": "STAR面试技巧-6.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_db9d0850ed8a0a05a197569d8493dfc67316519469979935",
+      "title": "5-PDCA复盘法.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_bb0c985b3d47a5920d98b038f309298c7316519469979935",
+      "title": "SCQA结构表达-8.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_5ebf72b6f4d90a1ed879ff65c6353d297316519469979935",
+      "title": "PREP原则-9.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_5e6c14c28febca1c610621efdd5a21f07316519469979935",
+      "title": "4-GRAI复盘法.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_0c73c9df99ff4149ca994a0922ae8c987316519469979935",
+      "title": "9-YWT复盘法.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_dc063ce63ac9e5df2b994206287b39637316519469979935",
+      "title": "3-STAR复盘法.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_284fafc1ebcae31a3261f8b6575ee2f67316519469979935",
+      "title": "2-3R复盘法.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "pdf_f6fa6e040898ed71cbb1dcccc591df63_7d4f734b3a6e53eedf68157725513bfe7316519469979935",
+      "title": "10大情绪力.pdf",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 1
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_db464b36a9227b4179cb27c966830f5e7316519469979935",
+      "title": "1-KISS复盘法.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "pdf_f6fa6e040898ed71cbb1dcccc591df63_e86a0bd1e44c66138c27e4504972381b7316519469979935",
+      "title": "10大沟通力.pdf",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 1
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_f2c53740fbc4d0427e2bdc43ab63c8cb7316519469979935",
+      "title": "10-PDF复盘法.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_c2a7fc042c3fad945c0727b8d13ebbd27316519469979935",
+      "title": "6-KPT复盘法.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "pdf_f6fa6e040898ed71cbb1dcccc591df63_f3cf3d75b92d192f76f5cc46ec1a77aa7316519469979935",
+      "title": "10大领导力.pdf",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 1
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_4c5e423181c375283952ca394322abc27316519469979935",
+      "title": "8-GRBARP复盘法.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_449f4f6ca07b7f143827ae970cac16097316519469979935",
+      "title": "7-四行日记复盘法.jpg",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 9
+    },
+    {
+      "media_id": "pdf_f6fa6e040898ed71cbb1dcccc591df63_1e9c644610e893c21bf2d4993b3daca77316519469979935",
+      "title": "10大复盘力.pdf",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 1
+    },
+    {
+      "media_id": "pdf_f6fa6e040898ed71cbb1dcccc591df63_6a023213900ee834f47db075b04978657316519469979935",
+      "title": "10大规划力.pdf",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 1
+    },
+    {
+      "media_id": "pdf_f6fa6e040898ed71cbb1dcccc591df63_d5a25c236d19aca66b8adcb5dc0c3e147316519469979935",
+      "title": "10大自识力.pdf",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 1
+    },
+    {
+      "media_id": "pdf_f6fa6e040898ed71cbb1dcccc591df63_87a5e29525654df5da9b2bf68d2e10367316519469979935",
+      "title": "10大营销力.pdf",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 1
+    },
+    {
+      "media_id": "pdf_f6fa6e040898ed71cbb1dcccc591df63_fef287fb3c8d00c8ba2ba49f7ee18d7e7316519469979935",
+      "title": "10大执行力.pdf",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 1
+    },
+    {
+      "media_id": "pdf_f6fa6e040898ed71cbb1dcccc591df63_b3f3243246ced516de6f8cfc575ff06b7316519469979935",
+      "title": "10大学习力.pdf",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 1
+    },
+    {
+      "media_id": "pdf_f6fa6e040898ed71cbb1dcccc591df63_d76a5b376791738f7fe8345c8e56c63c7316519469979935",
+      "title": "10大思考力.pdf",
+      "parent_folder_id": "7316519469979935",
+      "tags": [],
+      "media_type": 1
+    }
+  ],
+  "folders": [],
+  "search_results": [
+    {
+      "media_id": "pdf_f6fa6e040898ed71cbb1dcccc591df63_c042c8afdf772397881e96464d92d0f47316519469979935",
+      "title": "150个思维模型&麦肯锡战略思维分析工具.pdf",
+      "parent_folder_id": "7316519469979935",
+      "highlight_content": "",
+      "media_type": 1
+    },
+    {
+      "media_id": "pdf_f6fa6e040898ed71cbb1dcccc591df63_c042c8afdf772397881e96464d92d0f47316519469979935",
+      "title": "150个思维模型&麦肯锡战略思维分析工具.pdf",
+      "parent_folder_id": "7316519469979935",
+      "highlight_content": "",
+      "media_type": 1
+    },
+    {
+      "media_id": "pdf_f6fa6e040898ed71cbb1dcccc591df63_e00a425dcb1e8b5b2b98036dfb2833f27316519469979935",
+      "title": "成长方法论-100个思维模型.pdf",
+      "parent_folder_id": "7316519469979935",
+      "highlight_content": "",
+      "media_type": 1
+    },
+    {
+      "media_id": "pdf_f6fa6e040898ed71cbb1dcccc591df63_c042c8afdf772397881e96464d92d0f47316519469979935",
+      "title": "150个思维模型&麦肯锡战略思维分析工具.pdf",
+      "parent_folder_id": "7316519469979935",
+      "highlight_content": "",
+      "media_type": 1
+    },
+    {
+      "media_id": "pdf_f6fa6e040898ed71cbb1dcccc591df63_e00a425dcb1e8b5b2b98036dfb2833f27316519469979935",
+      "title": "成长方法论-100个思维模型.pdf",
+      "parent_folder_id": "7316519469979935",
+      "highlight_content": "",
+      "media_type": 1
+    },
+    {
+      "media_id": "pdf_f6fa6e040898ed71cbb1dcccc591df63_f244c80f436ee6880ec19e12a9eb2db07316519469979935",
+      "title": "万物皆模型-100个思维模型解密版.pdf",
+      "parent_folder_id": "7316519469979935",
+      "highlight_content": "",
+      "media_type": 1
+    },
+    {
+      "media_id": "pdf_f6fa6e040898ed71cbb1dcccc591df63_f244c80f436ee6880ec19e12a9eb2db07316519469979935",
+      "title": "万物皆模型-100个思维模型解密版.pdf",
+      "parent_folder_id": "7316519469979935",
+      "highlight_content": "",
+      "media_type": 1
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_f3d143fe0c7c599a474e5e480295dd587316519469979935",
+      "title": "GROW教练模型-4.jpg",
+      "parent_folder_id": "7316519469979935",
+      "highlight_content": "",
+      "media_type": 9
+    },
+    {
+      "media_id": "pdf_f6fa6e040898ed71cbb1dcccc591df63_e00a425dcb1e8b5b2b98036dfb2833f27316519469979935",
+      "title": "成长方法论-100个思维模型.pdf",
+      "parent_folder_id": "7316519469979935",
+      "highlight_content": "",
+      "media_type": 1
+    },
+    {
+      "media_id": "pdf_f6fa6e040898ed71cbb1dcccc591df63_c042c8afdf772397881e96464d92d0f47316519469979935",
+      "title": "150个思维模型&麦肯锡战略思维分析工具.pdf",
+      "parent_folder_id": "7316519469979935",
+      "highlight_content": "",
+      "media_type": 1
+    },
+    {
+      "media_id": "img_f6fa6e040898ed71cbb1dcccc591df63_86cafc0f4ea06f1e6718b904e94ae91f7316519469979935",
+      "title": "学习金字塔.jpg",
+      "parent_folder_id": "7316519469979935",
+      "highlight_content": "",
+      "media_type": 9
+    }
+  ]
+}
