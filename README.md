@@ -58,4 +58,10 @@ MIT License
 
 ## 作者
 
-Jack Wang (wdj) — 上海三文投资集团CFO
+**Jack Wang (wdj) / 王东杰**
+
+- GitHub: [yjkj999999](https://github.com/yjkj999999)
+- 知识库策展、结构化整理与发布
+
+> 本Skill由 Jack Wang (wdj) 基于IMA知识库原始内容策展、结构化整理并发布。
+> 内容版权归麦肯锡公司及原始作者所有，仅供学习与研究使用。
